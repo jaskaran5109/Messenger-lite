@@ -1,0 +1,26 @@
+
+.message_card {
+  width: fit-content;
+  padding: 10px;
+  margin: 10px;
+  /* border-radius: 50px !important; */
+  /* margin-bottom: 100px!important; */
+}
+.message_user {
+  margin-left: auto;
+  color: white;
+  text-align: left !important;
+  display: flex;
+  flex-direction: column-reverse;
+  /* border-radius: 25px!important; */
+}
+.message_usercard {
+  background-color: #0b81ff !important;
+  border-radius: 15px!important;
+  color: white !important;
+}
+.message_guestcard {
+  border-radius: 15px!important;
+  background-color: #e9e9eb !important;
+  color:#000000;
+}
